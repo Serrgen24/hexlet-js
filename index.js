@@ -1,2 +1,2 @@
-import _ from "./node_modules/lodash/capitalize";
-console.log(_.capitalize("hello"));
+import _ from "lodash";
+console.log(_.capitalize('giga'));
